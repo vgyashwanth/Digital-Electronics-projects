@@ -1,0 +1,4 @@
+In this project, a watch alarm uses Digital Electronics (Synchronous Counters) to generate an alarm 
+from 10min up to 50min. It uses seven segment displays to show the current time in minutes, including 
+seconds. When it reaches our alarm set time, the buzzer will turn on. The alarm time resets to zero 
+using a reset button and set to anytime between 10min,20min,30min,40min, and 50min.
